@@ -1,0 +1,9 @@
+10 10.30 Henrik Sedin
+11 12.50 Bo Horvat
+12 13.2 Daniel Sedin
+13 8.20 Thomas Vanek
+14 7.65 Jake Virtanen
+15 9.10 Jacob Markstrom
+16 10.12 Alexander Edler
+17 5.25 Daniel Katz
+18 6.75 John F. Jones

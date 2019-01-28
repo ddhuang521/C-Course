@@ -1,0 +1,11 @@
+************Payroll Information************
+ Daniel Sedin, $660
+ Bo Horvat, $437.5
+ Alexander Edler, $404.8
+ Jacob Markstrom, $364
+ Jake Virtanen, $283.05
+ John F. Jones, $270
+ Henrik Sedin, $257.5
+ Daniel Katz, $210
+ Thomas Vanek, $205
+***************End Payroll*****************
